@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Main robot",
+        "image": "/src/assets/ressources/images/main-robot.jpg",
+        "price": 12000,
+        "category": "Accessoires"
+    },
+    {
+        "name": "Lunette miroir",
+        "image": "/src/assets/ressources/images/lunette-miroir.png",
+        "price": 20,
+        "category": "Accessoires"
+    },
+    {
+        "name": "Mini clavier",
+        "image": "/src/assets/ressources/images/mini-clavier.jpeg",
+        "price": 5,
+        "category": "Accessoires"
+    },
+    {
+        "name": "Sweat tarifs",
+        "image": "/src/assets/ressources/images/sweat-tarif.jpeg",
+        "price": 20,
+        "category": "Vêtements"
+    },
+    {
+        "name": "Casque boisson",
+        "image": "/src/assets/ressources/images/casque-boisson.jpg",
+        "price": 15,
+        "category": "Vêtements"
+    },
+    {
+        "name": "Lit bureau",
+        "image": "/src/assets/ressources/images/lit-gamer.jpg",
+        "price": 1500,
+        "category": "Mobilier"
+    },
+    {
+        "name": "Cabine insonorisée",
+        "image": "/src/assets/ressources/images/rage-room.jpg",
+        "price": 5000,
+        "category": "Mobilier"
+    }
+    ]

@@ -1,18 +1,17 @@
-import React from 'react';
+
 import './App.css';
-/* import Product from './components/Product'
-import ProductCatalog from './components/ProductCatalog'
-import ProductFilter from './components/ProductFilter'
-import ProductDetails from './components/ProductDetails'
-import Data from ./assets/Data */
+import ProductCatalog from './components/ProductCatalog';
+
 
 function App() {
 
+  
   return (
     <>
-      
+      <h1>LazyDev</h1>
+      < ProductCatalog />
     </>
-  )
+  );
 }
 
 export default App
