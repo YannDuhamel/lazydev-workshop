@@ -1,0 +1,13 @@
+.container {
+    width: 40rem;
+    display : flex; 
+    flex-wrap : wrap;
+    justify-content: center;
+    gap : 1em;
+    border-radius: 20px;
+    border : 1.2px solid blue;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+
+}

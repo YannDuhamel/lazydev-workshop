@@ -1,11 +1,13 @@
 import Product from "./Product";
 import data from "../assets/data/data.json";
+import style from "./productcatalog.module.css";
 
 
 function ProductCatalog() {
     return (
 
         <>
+ <div className={style.container}>
         {data.map ((p)=> (
             <Product 
             key = {p.name}
@@ -14,7 +16,7 @@ function ProductCatalog() {
             price = {p.price}
             />
         ))}
-    
+</div>
         </>
     );
 }
