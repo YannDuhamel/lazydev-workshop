@@ -1,0 +1,36 @@
+.productdetails {
+    position: fixed;
+    top: 22%; 
+    left: 85%;
+    transform: translateX(-80%);
+    padding: 5px;
+    border-radius: 20px;
+    border : 1.2px solid blue;
+    background-color: white;
+  }
+
+  .imgdetails {
+    width : 450px;
+    border-radius: 20px;
+  }
+
+  h3 {
+    font-size: 2rem;
+    margin: 0.3rem;
+  }
+
+  .detailsprice {
+    font-size: 1.5rem;
+    margin: 0.3rem;
+    color: blue;
+    font-weight: bold;
+  }
+
+  .detailcategory {
+    margin: 0.3rem;
+    color: rgb(85, 84, 84);
+  }
+
+  .detaildescription {
+    font-size: 1.1rem;
+  }

@@ -1,0 +1,13 @@
+.filterbutton {
+  background-color: blue;
+  color : white;
+  border-radius: 10px;
+  padding : 0.5rem 1rem;
+  margin: 1rem 1.5rem;
+  font-weight: bold;
+  width: 11rem;
+}
+
+.filterbutton:hover {
+  background-color: #FD6C9E;
+}

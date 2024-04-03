@@ -1,0 +1,9 @@
+.container {
+    width: 60vw;
+    display : flex; 
+    flex-wrap : wrap;
+    justify-content: center;
+    gap : 1em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}

@@ -3,42 +3,49 @@
     "name": "Main robot",
     "image": "/src/assets/ressources/images/main-robot.jpg",
     "price": 12000,
-    "category": "Accessoires"
+    "category": "Accessoires",
+    "description": "L'efficacité c'est de savoir déléguer alors arrêtez de coder et laissez faire cette main robot innovante qui travaillera pour vous sans demander de pause café! (Fonctionne avec 14 piles LR20, vendues séparément.)"
 },
 {
     "name": "Lunette miroir",
     "image": "/src/assets/ressources/images/lunette-miroir.png",
     "price": 20,
-    "category": "Accessoires"
+    "category": "Accessoires",
+    "description": "Pourquoi travailler assis quand on peut travailler allongé grâce à nos superbes lunettes!"
 },
 {
     "name": "Mini clavier",
     "image": "/src/assets/ressources/images/mini-clavier.jpeg",
     "price": 5,
-    "category": "Accessoires"
+    "category": "Accessoires",
+    "description": "Voici le mini clavier ultime ! Simplifiez votre vie de codeur avec LA commande la plus importante juste sous vos doigts. Parce que parfois, le meilleur raccourci, c'est celui qui annule tout."
 },
 {
     "name": "Sweat tarifs",
     "image": "/src/assets/ressources/images/sweat-tarif.jpeg",
     "price": 20,
-    "category": "Vêtements"
+    "category": "Vêtements",
+    "description": "Ce sweat est comme vos tarifs de développement : confortable, flexible et affiché clairement. Parfait pour les développeurs fainéants qui préfèrent que leur style parle pour eux, tout en laissant les prix faire le reste du boulot!"
 },
 {
     "name": "Casque boisson",
     "image": "/src/assets/ressources/images/casque-boisson.jpg",
     "price": 15,
-    "category": "Vêtements"
+    "category": "Vêtements",
+    "description": "Pour les développeurs qui jonglent entre le code et la caféine, voici votre nouveau meilleur ami : le casque boisson ! Libérez vos mains pour taper du code tout en gardant votre carburant à portée de bouche. C'est comme un cocktail d'efficacité avec une touche de paresse ingénieuse."
 },
 {
     "name": "Lit bureau",
     "image": "/src/assets/ressources/images/lit-gamer.jpg",
     "price": 1500,
-    "category": "Mobilier"
+    "category": "Mobilier",
+    "description": "Parfait pour ceux qui préfèrent taper du code et faire des rêves de bugs sans même quitter leur lit. Avec un espace de sieste rendez vos 'git push' nettement plus agréables! Vous ne voudrez jamais plus travailler ailleurs!"
 },
 {
     "name": "Cabine insonorisée",
     "image": "/src/assets/ressources/images/rage-room.jpg",
     "price": 5000,
-    "category": "Mobilier"
+    "category": "Mobilier",
+    "description": "L'équipement parfait pour extérioriser le trop plein d'incompréhension, de colère, de stress (et de CSS) face à votre code qui ne fonctionne pas."
 }
 ]

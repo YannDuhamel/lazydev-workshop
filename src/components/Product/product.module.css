@@ -1,0 +1,46 @@
+.container {
+    width: 15em;
+    height: 19.2em;
+    display : flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border : 1.2px solid blue;
+    padding-top: .9rem;
+    padding-bottom: 1rem;
+    background-color: white;
+
+}
+
+.containerImage{
+    width : 9rem;
+    height: 8rem; 
+
+}
+
+.title {
+color : rgb(85, 84, 84); 
+margin-top: 1rem;
+margin-bottom: 0rem;
+}
+
+.price{
+  margin-top: .2rem;
+  margin-bottom: .2rem;
+  font-size: 1.2rem;
+}
+
+.button{ 
+  background-color: blue;
+  color : white;
+  border-radius: 10px;
+  padding : 0.5rem 1rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #FD6C9E;
+  padding : 0.7rem 1.2rem;
+}
